@@ -13,10 +13,10 @@ with any obstacle.
 ## List of Components
 
 Microcontroller ATmega32 <br/>
-Ultrasonic sensor HC-SR04 
-Motor driver H-driver L293D
-5V motors with 1:48 gear
-Wheels
-Lithium-ion battery
+Ultrasonic sensor HC-SR04 <br/>
+Motor driver H-driver L293D <br/>
+5V motors with 1:48 gear <br/>
+Wheels <br/>
+Lithium-ion battery <br/>
 Leds
 
