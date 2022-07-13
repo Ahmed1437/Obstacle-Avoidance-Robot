@@ -7,4 +7,4 @@ and it's a simple 2-wheels robot that roams around while avoiding colliding
 with any obstacle.
 
 
-<img src="https://user-images.githubusercontent.com/70710872/178770387-cadd049c-d55e-4fc5-b823-6b0ce5723dc0.jpeg" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/70710872/178770387-cadd049c-d55e-4fc5-b823-6b0ce5723dc0.jpeg" width="500" height="400">
