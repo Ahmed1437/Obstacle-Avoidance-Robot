@@ -6,3 +6,4 @@ it and avoid them by turning itself in another direction.
 and it's a simple 2-wheels robot that roams around while avoiding colliding 
 with any obstacle.
 ![WhatsApp Image 2022-06-20 at 2 26 08 PM](https://user-images.githubusercontent.com/70710872/178770387-cadd049c-d55e-4fc5-b823-6b0ce5723dc0.jpeg)
+<img src="https://user-images.githubusercontent.com/70710872/178770387-cadd049c-d55e-4fc5-b823-6b0ce5723dc0.jpeg" width="48">
