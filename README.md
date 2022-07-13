@@ -19,6 +19,3 @@ Motor driver H-driver L293D <br/>
 Wheels <br/>
 Lithium-ion battery <br/>
 Leds
-
-## Collabarators
-@Ahmed1437
