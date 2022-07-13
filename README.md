@@ -12,7 +12,7 @@ with any obstacle.
 
 ## List of Components
 
-Microcontroller ATmega32
+Microcontroller ATmega32 <br/>
 Ultrasonic sensor HC-SR04 
 Motor driver H-driver L293D
 5V motors with 1:48 gear
